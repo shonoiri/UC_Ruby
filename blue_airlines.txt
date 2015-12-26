@@ -1,0 +1,2592 @@
+Tokyo
+Mexico City
+Mumbai
+Sao Paulo
+New York City
+Shanghai
+Lagos
+Los Angeles
+Calcutta
+Buenos Aires
+Seoul
+Beijing
+Karachi
+Delhi
+Dhaka
+Manila
+Cairo
+Osaka
+Rio de Janeiro
+Tianjin
+Jakarta
+Paris
+Istanbul
+Moscow
+London
+Lima
+Tehran
+Bangkok
+Chicago
+Bogota
+Hyderabad
+Chennai
+Essen
+Ho Chi Minh City
+Hangzhou
+Hong Kong
+Lahore
+Shenyang
+Changchun
+Bangalore
+Harbin
+Chengdu
+Santiago
+Guangzhou
+St. Petersburg
+Kinshasa
+Baghdad
+Jinan
+Wuhan
+Toronto
+Yangon
+Alger
+Philadelphia
+Qingdao
+Milano
+Pusan
+Belo Horizonte
+Almadabad
+Madrid
+San Francisco
+Alexandria
+Washington DC
+Houston
+Dallas
+Guadalajara
+Chongging
+Medellin
+Detroit
+Handan
+Frankfurt
+Porto Alegre
+Hanoi
+Sydney
+Santo Domingo
+Singapore
+Casablanca
+Katowice
+Pune
+Bangdung
+Monterrey
+Montreal
+Nagoya
+Nanjing
+Abidjan
+Xi'an
+Berlin
+Riyadh
+Recife
+Dusseldorf
+Ankara
+Melbourne
+Salvador
+Dalian
+Caracas
+Adis Abeba
+Athina
+Cape Town
+Koln
+Maputo
+Napoli
+
+Tokyo,Mexico City,28
+Tokyo,Sao Paulo,38
+Tokyo,Shanghai,14
+Tokyo,Lagos,18
+Tokyo,Los Angeles,43
+Tokyo,Dhaka,68
+Tokyo,Manila,47
+Tokyo,Cairo,63
+Tokyo,Osaka,63
+Tokyo,Rio de Janeiro,51
+Tokyo,Tianjin,79
+Tokyo,Lima,89
+Tokyo,Tehran,89
+Tokyo,Hyderabad,81
+Tokyo,Ho Chi Minh City,51
+Tokyo,Hangzhou,82
+Tokyo,Hong Kong,58
+Tokyo,Changchun,70
+Tokyo,Bangalore,9
+Tokyo,St. Petersburg,70
+Tokyo,Jinan,87
+Tokyo,Wuhan,58
+Tokyo,Toronto,93
+Tokyo,Yangon,75
+Tokyo,Milano,51
+Tokyo,Pusan,96
+Tokyo,Almadabad,83
+Tokyo,Madrid,84
+Tokyo,San Francisco,8
+Tokyo,Washington DC,4
+Tokyo,Chongging,96
+Tokyo,Frankfurt,31
+Tokyo,Porto Alegre,94
+Tokyo,Hanoi,50
+Tokyo,Sydney,21
+Tokyo,Santo Domingo,72
+Tokyo,Singapore,90
+Tokyo,Casablanca,90
+Tokyo,Pune,40
+Tokyo,Bangdung,9
+Tokyo,Monterrey,83
+Tokyo,Nagoya,91
+Tokyo,Berlin,76
+Tokyo,Riyadh,47
+Tokyo,Recife,72
+Tokyo,Dusseldorf,86
+Tokyo,Melbourne,9
+Tokyo,Dalian,5
+Tokyo,Athina,6
+Tokyo,Cape Town,75
+Tokyo,Koln,43
+Tokyo,Maputo,100
+Tokyo,Napoli,10
+Mexico City,Mumbai,3
+Mexico City,Shanghai,4
+Mexico City,Karachi,74
+Mexico City,Delhi,98
+Mexico City,Manila,45
+Mexico City,Tianjin,87
+Mexico City,Istanbul,96
+Mexico City,Hyderabad,73
+Mexico City,Chennai,79
+Mexico City,Ho Chi Minh City,34
+Mexico City,Lahore,25
+Mexico City,Bangalore,24
+Mexico City,Harbin,24
+Mexico City,Kinshasa,4
+Mexico City,Toronto,34
+Mexico City,Yangon,18
+Mexico City,Milano,7
+Mexico City,Pusan,50
+Mexico City,Belo Horizonte,4
+Mexico City,San Francisco,89
+Mexico City,Dallas,19
+Mexico City,Guadalajara,71
+Mexico City,Chongging,71
+Mexico City,Medellin,77
+Mexico City,Detroit,55
+Mexico City,Frankfurt,18
+Mexico City,Santo Domingo,23
+Mexico City,Casablanca,29
+Mexico City,Monterrey,79
+Mexico City,Nagoya,70
+Mexico City,Nanjing,10
+Mexico City,Berlin,50
+Mexico City,Riyadh,6
+Mexico City,Recife,38
+Mexico City,Dusseldorf,18
+Mexico City,Ankara,99
+Mexico City,Athina,56
+Mexico City,Cape Town,91
+Mexico City,Koln,18
+Mumbai,Sao Paulo,98
+Mumbai,Seoul,7
+Mumbai,Dhaka,66
+Mumbai,Osaka,27
+Mumbai,Tianjin,10
+Mumbai,Jakarta,8
+Mumbai,Paris,97
+Mumbai,Istanbul,80
+Mumbai,London,28
+Mumbai,Tehran,45
+Mumbai,Chicago,24
+Mumbai,Hong Kong,77
+Mumbai,Shenyang,20
+Mumbai,Changchun,52
+Mumbai,Bangalore,50
+Mumbai,Harbin,64
+Mumbai,Santiago,94
+Mumbai,Guangzhou,77
+Mumbai,St. Petersburg,66
+Mumbai,Wuhan,64
+Mumbai,Yangon,66
+Mumbai,Alger,64
+Mumbai,Philadelphia,90
+Mumbai,Milano,43
+Mumbai,Pusan,43
+Mumbai,Madrid,5
+Mumbai,San Francisco,89
+Mumbai,Alexandria,33
+Mumbai,Dallas,81
+Mumbai,Medellin,14
+Mumbai,Porto Alegre,8
+Mumbai,Hanoi,83
+Mumbai,Santo Domingo,20
+Mumbai,Casablanca,47
+Mumbai,Nagoya,4
+Mumbai,Abidjan,25
+Mumbai,Berlin,33
+Mumbai,Riyadh,69
+Mumbai,Dusseldorf,58
+Mumbai,Dalian,83
+Mumbai,Caracas,87
+Mumbai,Athina,25
+Mumbai,Koln,16
+Mumbai,Maputo,97
+Mumbai,Napoli,89
+Sao Paulo,Shanghai,97
+Sao Paulo,Lagos,86
+Sao Paulo,Los Angeles,19
+Sao Paulo,Calcutta,53
+Sao Paulo,Buenos Aires,44
+Sao Paulo,Seoul,38
+Sao Paulo,Beijing,76
+Sao Paulo,Delhi,43
+Sao Paulo,Cairo,92
+Sao Paulo,Tianjin,39
+Sao Paulo,Jakarta,68
+Sao Paulo,Istanbul,77
+Sao Paulo,Tehran,12
+Sao Paulo,Chicago,17
+Sao Paulo,Bogota,48
+Sao Paulo,Essen,73
+Sao Paulo,Ho Chi Minh City,45
+Sao Paulo,Hangzhou,73
+Sao Paulo,Lahore,56
+Sao Paulo,Shenyang,12
+Sao Paulo,Changchun,38
+Sao Paulo,Bangalore,56
+Sao Paulo,Chengdu,80
+Sao Paulo,Kinshasa,97
+Sao Paulo,Wuhan,15
+Sao Paulo,Toronto,97
+Sao Paulo,Yangon,61
+Sao Paulo,Alger,20
+Sao Paulo,Philadelphia,97
+Sao Paulo,Qingdao,64
+Sao Paulo,Milano,45
+Sao Paulo,Pusan,94
+Sao Paulo,Belo Horizonte,32
+Sao Paulo,Madrid,42
+Sao Paulo,San Francisco,54
+Sao Paulo,Alexandria,5
+Sao Paulo,Dallas,91
+Sao Paulo,Chongging,84
+Sao Paulo,Pune,93
+Sao Paulo,Bangdung,11
+Sao Paulo,Monterrey,22
+Sao Paulo,Nagoya,91
+Sao Paulo,Nanjing,38
+Sao Paulo,Abidjan,54
+Sao Paulo,Xi'an,86
+Sao Paulo,Dusseldorf,59
+Sao Paulo,Salvador,99
+Sao Paulo,Caracas,69
+Sao Paulo,Maputo,47
+Sao Paulo,Napoli,82
+New York City,Lagos,74
+New York City,Calcutta,8
+New York City,Beijing,19
+New York City,Delhi,94
+New York City,Dhaka,92
+New York City,Cairo,69
+New York City,Osaka,1
+New York City,Rio de Janeiro,99
+New York City,Jakarta,38
+New York City,Istanbul,59
+New York City,Moscow,24
+New York City,Lima,43
+New York City,Tehran,56
+New York City,Chicago,96
+New York City,Hyderabad,56
+New York City,Chennai,100
+New York City,Essen,4
+New York City,Hangzhou,22
+New York City,Hong Kong,7
+New York City,Shenyang,50
+New York City,Changchun,45
+New York City,Bangalore,90
+New York City,Harbin,18
+New York City,Santiago,44
+New York City,St. Petersburg,79
+New York City,Kinshasa,85
+New York City,Baghdad,50
+New York City,Jinan,20
+New York City,Wuhan,59
+New York City,Toronto,29
+New York City,Philadelphia,86
+New York City,Qingdao,53
+New York City,Milano,92
+New York City,Belo Horizonte,9
+New York City,Madrid,45
+New York City,Houston,5
+New York City,Chongging,59
+New York City,Medellin,29
+New York City,Handan,21
+New York City,Frankfurt,69
+New York City,Hanoi,88
+New York City,Sydney,61
+New York City,Santo Domingo,19
+New York City,Singapore,53
+New York City,Casablanca,50
+New York City,Katowice,37
+New York City,Pune,71
+New York City,Montreal,15
+New York City,Nagoya,26
+New York City,Nanjing,58
+New York City,Xi'an,59
+New York City,Riyadh,44
+New York City,Dusseldorf,66
+New York City,Melbourne,33
+New York City,Salvador,44
+New York City,Dalian,22
+New York City,Caracas,26
+New York City,Adis Abeba,19
+New York City,Cape Town,41
+New York City,Maputo,48
+New York City,Napoli,40
+Shanghai,Lagos,46
+Shanghai,Calcutta,24
+Shanghai,Seoul,17
+Shanghai,Beijing,46
+Shanghai,Karachi,55
+Shanghai,Delhi,43
+Shanghai,Rio de Janeiro,78
+Shanghai,Tianjin,41
+Shanghai,Istanbul,6
+Shanghai,Moscow,5
+Shanghai,London,77
+Shanghai,Tehran,78
+Shanghai,Bangkok,27
+Shanghai,Bogota,97
+Shanghai,Chennai,2
+Shanghai,Ho Chi Minh City,90
+Shanghai,Lahore,5
+Shanghai,Shenyang,40
+Shanghai,Changchun,21
+Shanghai,Chengdu,90
+Shanghai,Santiago,18
+Shanghai,St. Petersburg,6
+Shanghai,Kinshasa,39
+Shanghai,Yangon,57
+Shanghai,Qingdao,94
+Shanghai,Milano,30
+Shanghai,Almadabad,22
+Shanghai,Madrid,39
+Shanghai,Guadalajara,76
+Shanghai,Chongging,15
+Shanghai,Detroit,20
+Shanghai,Frankfurt,10
+Shanghai,Porto Alegre,51
+Shanghai,Hanoi,87
+Shanghai,Santo Domingo,89
+Shanghai,Singapore,9
+Shanghai,Katowice,25
+Shanghai,Pune,33
+Shanghai,Montreal,88
+Shanghai,Nagoya,42
+Shanghai,Nanjing,24
+Shanghai,Xi'an,96
+Shanghai,Berlin,86
+Shanghai,Salvador,50
+Shanghai,Dalian,30
+Shanghai,Athina,66
+Lagos,Los Angeles,67
+Lagos,Calcutta,52
+Lagos,Buenos Aires,5
+Lagos,Dhaka,43
+Lagos,Manila,15
+Lagos,Cairo,71
+Lagos,Rio de Janeiro,1
+Lagos,Tianjin,12
+Lagos,Jakarta,81
+Lagos,Paris,60
+Lagos,Istanbul,82
+Lagos,London,72
+Lagos,Lima,47
+Lagos,Tehran,35
+Lagos,Bangkok,26
+Lagos,Chicago,66
+Lagos,Hyderabad,24
+Lagos,Chennai,37
+Lagos,Essen,10
+Lagos,Hong Kong,18
+Lagos,Shenyang,39
+Lagos,Changchun,88
+Lagos,Chengdu,68
+Lagos,Santiago,23
+Lagos,Guangzhou,70
+Lagos,Kinshasa,69
+Lagos,Jinan,51
+Lagos,Wuhan,91
+Lagos,Yangon,97
+Lagos,Philadelphia,87
+Lagos,Qingdao,61
+Lagos,Milano,92
+Lagos,Belo Horizonte,2
+Lagos,Madrid,27
+Lagos,San Francisco,66
+Lagos,Houston,86
+Lagos,Dallas,37
+Lagos,Guadalajara,17
+Lagos,Chongging,73
+Lagos,Detroit,10
+Lagos,Handan,20
+Lagos,Frankfurt,27
+Lagos,Hanoi,62
+Lagos,Sydney,82
+Lagos,Singapore,5
+Lagos,Casablanca,57
+Lagos,Bangdung,21
+Lagos,Monterrey,18
+Lagos,Nagoya,78
+Lagos,Nanjing,89
+Lagos,Xi'an,34
+Lagos,Riyadh,66
+Lagos,Dalian,62
+Los Angeles,Buenos Aires,9
+Los Angeles,Seoul,43
+Los Angeles,Beijing,65
+Los Angeles,Karachi,8
+Los Angeles,Delhi,38
+Los Angeles,Rio de Janeiro,93
+Los Angeles,Jakarta,1
+Los Angeles,Moscow,58
+Los Angeles,London,70
+Los Angeles,Lima,38
+Los Angeles,Tehran,51
+Los Angeles,Bangkok,10
+Los Angeles,Chicago,68
+Los Angeles,Bogota,47
+Los Angeles,Essen,75
+Los Angeles,Ho Chi Minh City,70
+Los Angeles,Hong Kong,38
+Los Angeles,Lahore,24
+Los Angeles,Shenyang,34
+Los Angeles,Changchun,62
+Los Angeles,Bangalore,1
+Los Angeles,Harbin,43
+Los Angeles,Santiago,64
+Los Angeles,Kinshasa,100
+Los Angeles,Wuhan,21
+Los Angeles,Alger,17
+Los Angeles,Milano,7
+Los Angeles,Almadabad,36
+Los Angeles,Madrid,5
+Los Angeles,San Francisco,86
+Los Angeles,Alexandria,18
+Los Angeles,Houston,4
+Los Angeles,Dallas,61
+Los Angeles,Chongging,34
+Los Angeles,Medellin,78
+Los Angeles,Detroit,86
+Los Angeles,Handan,24
+Los Angeles,Frankfurt,48
+Los Angeles,Porto Alegre,30
+Los Angeles,Hanoi,1
+Los Angeles,Santo Domingo,2
+Los Angeles,Katowice,21
+Los Angeles,Monterrey,77
+Los Angeles,Montreal,61
+Los Angeles,Nanjing,50
+Los Angeles,Abidjan,71
+Los Angeles,Xi'an,43
+Los Angeles,Berlin,8
+Los Angeles,Recife,70
+Los Angeles,Dusseldorf,17
+Los Angeles,Salvador,99
+Los Angeles,Caracas,73
+Los Angeles,Napoli,80
+Calcutta,Karachi,34
+Calcutta,Delhi,85
+Calcutta,Dhaka,94
+Calcutta,Rio de Janeiro,52
+Calcutta,Lima,68
+Calcutta,Chicago,59
+Calcutta,Bogota,31
+Calcutta,Hyderabad,1
+Calcutta,Chennai,55
+Calcutta,Essen,49
+Calcutta,Ho Chi Minh City,23
+Calcutta,Hong Kong,65
+Calcutta,Lahore,89
+Calcutta,Bangalore,19
+Calcutta,Santiago,96
+Calcutta,Kinshasa,7
+Calcutta,Baghdad,64
+Calcutta,Wuhan,52
+Calcutta,Toronto,64
+Calcutta,Alger,91
+Calcutta,Qingdao,20
+Calcutta,Pusan,80
+Calcutta,Almadabad,53
+Calcutta,Alexandria,33
+Calcutta,Dallas,15
+Calcutta,Guadalajara,46
+Calcutta,Chongging,43
+Calcutta,Medellin,50
+Calcutta,Detroit,63
+Calcutta,Sydney,47
+Calcutta,Singapore,88
+Calcutta,Casablanca,64
+Calcutta,Katowice,10
+Calcutta,Pune,35
+Calcutta,Bangdung,1
+Calcutta,Montreal,92
+Calcutta,Riyadh,16
+Calcutta,Recife,36
+Calcutta,Dalian,61
+Calcutta,Caracas,85
+Calcutta,Koln,99
+Buenos Aires,Beijing,10
+Buenos Aires,Delhi,85
+Buenos Aires,Manila,63
+Buenos Aires,Lima,30
+Buenos Aires,Bangkok,28
+Buenos Aires,Hyderabad,3
+Buenos Aires,Chennai,18
+Buenos Aires,Hong Kong,41
+Buenos Aires,Changchun,94
+Buenos Aires,Harbin,66
+Buenos Aires,Chengdu,5
+Buenos Aires,Jinan,7
+Buenos Aires,Alger,91
+Buenos Aires,Philadelphia,15
+Buenos Aires,Pusan,98
+Buenos Aires,Belo Horizonte,61
+Buenos Aires,Madrid,89
+Buenos Aires,San Francisco,99
+Buenos Aires,Alexandria,26
+Buenos Aires,Medellin,47
+Buenos Aires,Detroit,7
+Buenos Aires,Handan,98
+Buenos Aires,Frankfurt,72
+Buenos Aires,Sydney,33
+Buenos Aires,Singapore,95
+Buenos Aires,Katowice,5
+Buenos Aires,Bangdung,69
+Buenos Aires,Nagoya,93
+Buenos Aires,Dusseldorf,83
+Buenos Aires,Ankara,3
+Buenos Aires,Caracas,22
+Buenos Aires,Athina,18
+Buenos Aires,Koln,53
+Buenos Aires,Napoli,91
+Seoul,Manila,66
+Seoul,Cairo,48
+Seoul,Osaka,15
+Seoul,Istanbul,21
+Seoul,London,46
+Seoul,Lima,16
+Seoul,Bangkok,53
+Seoul,Chennai,18
+Seoul,Ho Chi Minh City,46
+Seoul,Hong Kong,87
+Seoul,Shenyang,98
+Seoul,Guangzhou,77
+Seoul,St. Petersburg,49
+Seoul,Wuhan,46
+Seoul,Toronto,26
+Seoul,Yangon,91
+Seoul,Alger,93
+Seoul,Philadelphia,74
+Seoul,Pusan,38
+Seoul,Almadabad,64
+Seoul,Madrid,15
+Seoul,Alexandria,94
+Seoul,Guadalajara,44
+Seoul,Medellin,7
+Seoul,Detroit,1
+Seoul,Hanoi,12
+Seoul,Santo Domingo,70
+Seoul,Singapore,94
+Seoul,Casablanca,10
+Seoul,Pune,7
+Seoul,Monterrey,24
+Seoul,Montreal,8
+Seoul,Abidjan,81
+Seoul,Xi'an,79
+Seoul,Berlin,7
+Seoul,Dusseldorf,48
+Seoul,Ankara,57
+Seoul,Melbourne,46
+Seoul,Salvador,60
+Seoul,Caracas,83
+Seoul,Adis Abeba,7
+Beijing,Karachi,39
+Beijing,Delhi,43
+Beijing,Dhaka,30
+Beijing,Cairo,17
+Beijing,Osaka,4
+Beijing,Rio de Janeiro,27
+Beijing,Jakarta,52
+Beijing,Paris,79
+Beijing,Istanbul,8
+Beijing,London,45
+Beijing,Lima,67
+Beijing,Tehran,44
+Beijing,Hyderabad,92
+Beijing,Hong Kong,69
+Beijing,Shenyang,19
+Beijing,Changchun,75
+Beijing,Bangalore,87
+Beijing,Guangzhou,47
+Beijing,Baghdad,98
+Beijing,Wuhan,99
+Beijing,Toronto,89
+Beijing,Yangon,36
+Beijing,Alger,33
+Beijing,Qingdao,55
+Beijing,Belo Horizonte,27
+Beijing,Almadabad,91
+Beijing,San Francisco,17
+Beijing,Washington DC,48
+Beijing,Houston,91
+Beijing,Dallas,30
+Beijing,Chongging,76
+Beijing,Medellin,55
+Beijing,Detroit,84
+Beijing,Handan,90
+Beijing,Porto Alegre,45
+Beijing,Casablanca,73
+Beijing,Pune,44
+Beijing,Bangdung,18
+Beijing,Monterrey,66
+Beijing,Nagoya,64
+Beijing,Nanjing,95
+Beijing,Abidjan,17
+Beijing,Xi'an,63
+Beijing,Riyadh,90
+Beijing,Recife,98
+Beijing,Melbourne,30
+Beijing,Adis Abeba,57
+Beijing,Cape Town,35
+Beijing,Koln,54
+Beijing,Maputo,24
+Beijing,Napoli,46
+Karachi,Dhaka,65
+Karachi,Osaka,66
+Karachi,Rio de Janeiro,74
+Karachi,Tianjin,24
+Karachi,Jakarta,44
+Karachi,Paris,4
+Karachi,Istanbul,40
+Karachi,Bangkok,70
+Karachi,Ho Chi Minh City,29
+Karachi,Hong Kong,32
+Karachi,Changchun,46
+Karachi,Harbin,22
+Karachi,Chengdu,68
+Karachi,Santiago,38
+Karachi,St. Petersburg,23
+Karachi,Kinshasa,94
+Karachi,Baghdad,89
+Karachi,Jinan,56
+Karachi,Wuhan,45
+Karachi,Qingdao,94
+Karachi,Almadabad,28
+Karachi,Madrid,20
+Karachi,San Francisco,25
+Karachi,Washington DC,2
+Karachi,Guadalajara,8
+Karachi,Chongging,33
+Karachi,Detroit,5
+Karachi,Hanoi,43
+Karachi,Santo Domingo,35
+Karachi,Singapore,3
+Karachi,Nagoya,12
+Karachi,Nanjing,98
+Karachi,Abidjan,80
+Karachi,Xi'an,6
+Karachi,Riyadh,6
+Karachi,Melbourne,46
+Karachi,Dalian,69
+Karachi,Adis Abeba,45
+Karachi,Athina,45
+Karachi,Cape Town,71
+Karachi,Napoli,11
+Delhi,Dhaka,18
+Delhi,Manila,17
+Delhi,Paris,80
+Delhi,London,3
+Delhi,Lima,71
+Delhi,Chennai,61
+Delhi,Essen,71
+Delhi,Hangzhou,6
+Delhi,Hong Kong,17
+Delhi,Changchun,27
+Delhi,Harbin,43
+Delhi,Chengdu,11
+Delhi,Guangzhou,16
+Delhi,Wuhan,2
+Delhi,Toronto,93
+Delhi,Yangon,89
+Delhi,Philadelphia,13
+Delhi,Milano,14
+Delhi,Madrid,98
+Delhi,Alexandria,53
+Delhi,Washington DC,40
+Delhi,Houston,39
+Delhi,Guadalajara,85
+Delhi,Detroit,39
+Delhi,Handan,1
+Delhi,Hanoi,41
+Delhi,Sydney,11
+Delhi,Santo Domingo,71
+Delhi,Singapore,64
+Delhi,Pune,63
+Delhi,Monterrey,44
+Delhi,Nagoya,19
+Delhi,Nanjing,48
+Delhi,Abidjan,90
+Delhi,Ankara,55
+Delhi,Salvador,11
+Delhi,Dalian,94
+Delhi,Caracas,92
+Delhi,Athina,91
+Delhi,Cape Town,72
+Dhaka,Jakarta,100
+Dhaka,Paris,76
+Dhaka,Moscow,79
+Dhaka,London,4
+Dhaka,Tehran,60
+Dhaka,Bangkok,35
+Dhaka,Chennai,71
+Dhaka,Essen,68
+Dhaka,Ho Chi Minh City,31
+Dhaka,Hong Kong,4
+Dhaka,Changchun,54
+Dhaka,Harbin,15
+Dhaka,Chengdu,60
+Dhaka,St. Petersburg,90
+Dhaka,Baghdad,20
+Dhaka,Wuhan,39
+Dhaka,Yangon,55
+Dhaka,Philadelphia,67
+Dhaka,Qingdao,88
+Dhaka,Belo Horizonte,24
+Dhaka,Almadabad,63
+Dhaka,Guadalajara,84
+Dhaka,Chongging,11
+Dhaka,Detroit,11
+Dhaka,Handan,28
+Dhaka,Frankfurt,43
+Dhaka,Porto Alegre,59
+Dhaka,Hanoi,36
+Dhaka,Santo Domingo,19
+Dhaka,Casablanca,60
+Dhaka,Pune,6
+Dhaka,Bangdung,62
+Dhaka,Nanjing,64
+Dhaka,Berlin,57
+Dhaka,Riyadh,75
+Dhaka,Dusseldorf,12
+Dhaka,Ankara,76
+Dhaka,Dalian,89
+Dhaka,Koln,77
+Dhaka,Maputo,37
+Dhaka,Napoli,4
+Manila,Rio de Janeiro,70
+Manila,Tianjin,83
+Manila,Jakarta,68
+Manila,Paris,60
+Manila,Istanbul,46
+Manila,London,47
+Manila,Chicago,91
+Manila,Chennai,8
+Manila,Hangzhou,45
+Manila,Hong Kong,31
+Manila,Lahore,43
+Manila,Shenyang,37
+Manila,Changchun,11
+Manila,Bangalore,47
+Manila,Chengdu,74
+Manila,Santiago,5
+Manila,Guangzhou,83
+Manila,St. Petersburg,70
+Manila,Baghdad,83
+Manila,Wuhan,43
+Manila,Alger,54
+Manila,Philadelphia,55
+Manila,Qingdao,99
+Manila,Pusan,82
+Manila,Madrid,38
+Manila,San Francisco,51
+Manila,Chongging,69
+Manila,Medellin,83
+Manila,Detroit,52
+Manila,Porto Alegre,93
+Manila,Casablanca,74
+Manila,Katowice,76
+Manila,Montreal,40
+Manila,Nanjing,49
+Manila,Abidjan,62
+Manila,Berlin,100
+Manila,Riyadh,24
+Manila,Caracas,28
+Manila,Koln,100
+Manila,Napoli,7
+Cairo,Jakarta,87
+Cairo,Tehran,63
+Cairo,Bangkok,100
+Cairo,Chicago,82
+Cairo,Bogota,46
+Cairo,Essen,86
+Cairo,Ho Chi Minh City,85
+Cairo,Bangalore,45
+Cairo,Kinshasa,99
+Cairo,Wuhan,76
+Cairo,Milano,32
+Cairo,Pusan,66
+Cairo,Belo Horizonte,74
+Cairo,Washington DC,44
+Cairo,Houston,32
+Cairo,Chongging,43
+Cairo,Handan,31
+Cairo,Frankfurt,54
+Cairo,Hanoi,30
+Cairo,Sydney,21
+Cairo,Santo Domingo,14
+Cairo,Casablanca,48
+Cairo,Bangdung,66
+Cairo,Monterrey,78
+Cairo,Montreal,7
+Cairo,Nagoya,46
+Cairo,Berlin,26
+Cairo,Recife,23
+Cairo,Dusseldorf,38
+Cairo,Ankara,81
+Cairo,Melbourne,80
+Cairo,Dalian,48
+Cairo,Caracas,47
+Cairo,Cape Town,11
+Cairo,Koln,61
+Osaka,Tianjin,6
+Osaka,Paris,92
+Osaka,Istanbul,94
+Osaka,Moscow,58
+Osaka,London,24
+Osaka,Chicago,19
+Osaka,Hyderabad,36
+Osaka,Shenyang,90
+Osaka,Bangalore,82
+Osaka,Santiago,64
+Osaka,Guangzhou,24
+Osaka,Baghdad,69
+Osaka,Jinan,28
+Osaka,Toronto,92
+Osaka,Yangon,78
+Osaka,Alger,86
+Osaka,Qingdao,60
+Osaka,Pusan,27
+Osaka,Madrid,54
+Osaka,San Francisco,52
+Osaka,Alexandria,98
+Osaka,Washington DC,31
+Osaka,Guadalajara,68
+Osaka,Chongging,85
+Osaka,Medellin,52
+Osaka,Detroit,35
+Osaka,Handan,30
+Osaka,Frankfurt,70
+Osaka,Porto Alegre,72
+Osaka,Hanoi,11
+Osaka,Santo Domingo,42
+Osaka,Pune,21
+Osaka,Monterrey,97
+Osaka,Montreal,26
+Osaka,Nagoya,96
+Osaka,Nanjing,88
+Osaka,Xi'an,99
+Osaka,Riyadh,35
+Osaka,Recife,78
+Osaka,Ankara,8
+Osaka,Dalian,15
+Osaka,Athina,6
+Osaka,Cape Town,5
+Rio de Janeiro,Paris,39
+Rio de Janeiro,Istanbul,56
+Rio de Janeiro,Tehran,68
+Rio de Janeiro,Bangkok,58
+Rio de Janeiro,Chicago,52
+Rio de Janeiro,Bogota,85
+Rio de Janeiro,Hyderabad,100
+Rio de Janeiro,Chennai,100
+Rio de Janeiro,Essen,95
+Rio de Janeiro,Hangzhou,46
+Rio de Janeiro,Shenyang,44
+Rio de Janeiro,Changchun,92
+Rio de Janeiro,Harbin,48
+Rio de Janeiro,Santiago,96
+Rio de Janeiro,Baghdad,25
+Rio de Janeiro,Jinan,13
+Rio de Janeiro,Wuhan,23
+Rio de Janeiro,Toronto,65
+Rio de Janeiro,Alger,57
+Rio de Janeiro,Philadelphia,33
+Rio de Janeiro,Pusan,56
+Rio de Janeiro,Madrid,58
+Rio de Janeiro,Alexandria,70
+Rio de Janeiro,Washington DC,6
+Rio de Janeiro,Houston,10
+Rio de Janeiro,Dallas,6
+Rio de Janeiro,Medellin,5
+Rio de Janeiro,Handan,31
+Rio de Janeiro,Santo Domingo,59
+Rio de Janeiro,Singapore,7
+Rio de Janeiro,Monterrey,28
+Rio de Janeiro,Nanjing,60
+Rio de Janeiro,Abidjan,96
+Rio de Janeiro,Xi'an,76
+Rio de Janeiro,Riyadh,41
+Rio de Janeiro,Recife,64
+Rio de Janeiro,Melbourne,15
+Rio de Janeiro,Dalian,37
+Rio de Janeiro,Caracas,39
+Rio de Janeiro,Athina,55
+Rio de Janeiro,Maputo,88
+Tianjin,Jakarta,100
+Tianjin,Paris,82
+Tianjin,London,22
+Tianjin,Bangkok,81
+Tianjin,Hyderabad,65
+Tianjin,Lahore,25
+Tianjin,Shenyang,8
+Tianjin,Changchun,97
+Tianjin,Bangalore,46
+Tianjin,Chengdu,71
+Tianjin,St. Petersburg,50
+Tianjin,Wuhan,24
+Tianjin,Toronto,39
+Tianjin,Yangon,15
+Tianjin,Alger,58
+Tianjin,Philadelphia,84
+Tianjin,Milano,75
+Tianjin,Alexandria,64
+Tianjin,Houston,54
+Tianjin,Dallas,14
+Tianjin,Guadalajara,29
+Tianjin,Chongging,93
+Tianjin,Frankfurt,56
+Tianjin,Santo Domingo,71
+Tianjin,Pune,78
+Tianjin,Bangdung,38
+Tianjin,Montreal,90
+Tianjin,Nagoya,53
+Tianjin,Nanjing,10
+Tianjin,Abidjan,69
+Tianjin,Xi'an,61
+Tianjin,Riyadh,6
+Tianjin,Recife,17
+Tianjin,Dusseldorf,78
+Tianjin,Salvador,81
+Tianjin,Athina,28
+Tianjin,Cape Town,99
+Tianjin,Koln,45
+Jakarta,Lima,18
+Jakarta,Hyderabad,17
+Jakarta,Chennai,94
+Jakarta,Essen,42
+Jakarta,Ho Chi Minh City,26
+Jakarta,Hangzhou,79
+Jakarta,Hong Kong,7
+Jakarta,Lahore,93
+Jakarta,Shenyang,17
+Jakarta,Bangalore,56
+Jakarta,Harbin,68
+Jakarta,Chengdu,41
+Jakarta,Santiago,100
+Jakarta,St. Petersburg,22
+Jakarta,Baghdad,67
+Jakarta,Wuhan,68
+Jakarta,Alger,85
+Jakarta,Milano,25
+Jakarta,Almadabad,57
+Jakarta,Washington DC,3
+Jakarta,Houston,84
+Jakarta,Guadalajara,88
+Jakarta,Chongging,42
+Jakarta,Handan,97
+Jakarta,Sydney,86
+Jakarta,Casablanca,35
+Jakarta,Katowice,49
+Jakarta,Pune,66
+Jakarta,Bangdung,97
+Jakarta,Monterrey,95
+Jakarta,Montreal,37
+Jakarta,Nagoya,87
+Jakarta,Abidjan,73
+Jakarta,Berlin,63
+Jakarta,Recife,77
+Jakarta,Ankara,9
+Jakarta,Melbourne,12
+Jakarta,Salvador,68
+Jakarta,Dalian,35
+Jakarta,Koln,29
+Paris,Istanbul,61
+Paris,Moscow,33
+Paris,London,96
+Paris,Lima,54
+Paris,Bangkok,49
+Paris,Chicago,91
+Paris,Hyderabad,4
+Paris,Chennai,91
+Paris,Essen,34
+Paris,Ho Chi Minh City,6
+Paris,Hong Kong,23
+Paris,Lahore,7
+Paris,Bangalore,40
+Paris,Harbin,15
+Paris,Baghdad,15
+Paris,Jinan,22
+Paris,Wuhan,66
+Paris,Yangon,96
+Paris,Alger,95
+Paris,Philadelphia,8
+Paris,Almadabad,5
+Paris,Madrid,25
+Paris,San Francisco,11
+Paris,Alexandria,98
+Paris,Washington DC,5
+Paris,Houston,22
+Paris,Chongging,25
+Paris,Medellin,94
+Paris,Detroit,95
+Paris,Handan,95
+Paris,Frankfurt,13
+Paris,Katowice,84
+Paris,Pune,11
+Paris,Bangdung,61
+Paris,Monterrey,25
+Paris,Montreal,16
+Paris,Nanjing,53
+Paris,Berlin,53
+Paris,Riyadh,9
+Paris,Recife,32
+Paris,Dusseldorf,85
+Paris,Melbourne,40
+Paris,Dalian,86
+Paris,Adis Abeba,9
+Paris,Athina,88
+Paris,Maputo,47
+Istanbul,London,41
+Istanbul,Lima,14
+Istanbul,Chicago,56
+Istanbul,Bogota,15
+Istanbul,Chennai,54
+Istanbul,Lahore,82
+Istanbul,Bangalore,66
+Istanbul,Chengdu,6
+Istanbul,St. Petersburg,65
+Istanbul,Baghdad,81
+Istanbul,Jinan,62
+Istanbul,Yangon,99
+Istanbul,Philadelphia,33
+Istanbul,Belo Horizonte,96
+Istanbul,Almadabad,34
+Istanbul,Madrid,28
+Istanbul,San Francisco,40
+Istanbul,Houston,16
+Istanbul,Dallas,95
+Istanbul,Chongging,60
+Istanbul,Medellin,61
+Istanbul,Frankfurt,41
+Istanbul,Porto Alegre,67
+Istanbul,Santo Domingo,2
+Istanbul,Singapore,61
+Istanbul,Casablanca,98
+Istanbul,Bangdung,64
+Istanbul,Nagoya,65
+Istanbul,Berlin,69
+Istanbul,Riyadh,53
+Istanbul,Melbourne,22
+Istanbul,Dalian,7
+Istanbul,Caracas,59
+Istanbul,Adis Abeba,27
+Istanbul,Cape Town,79
+Istanbul,Koln,58
+Istanbul,Napoli,11
+Moscow,London,9
+Moscow,Lima,80
+Moscow,Tehran,8
+Moscow,Chicago,20
+Moscow,Bogota,60
+Moscow,Essen,94
+Moscow,Harbin,17
+Moscow,Santiago,37
+Moscow,St. Petersburg,95
+Moscow,Kinshasa,63
+Moscow,Baghdad,13
+Moscow,Wuhan,75
+Moscow,Yangon,58
+Moscow,Philadelphia,70
+Moscow,Qingdao,30
+Moscow,Milano,86
+Moscow,Belo Horizonte,38
+Moscow,Madrid,98
+Moscow,Alexandria,57
+Moscow,Washington DC,36
+Moscow,Houston,75
+Moscow,Dallas,61
+Moscow,Guadalajara,38
+Moscow,Medellin,17
+Moscow,Porto Alegre,100
+Moscow,Hanoi,64
+Moscow,Monterrey,15
+Moscow,Nagoya,12
+Moscow,Nanjing,71
+Moscow,Berlin,26
+Moscow,Recife,16
+Moscow,Caracas,22
+Moscow,Adis Abeba,64
+Moscow,Koln,80
+London,Chicago,51
+London,Hyderabad,36
+London,Hangzhou,74
+London,Shenyang,75
+London,Changchun,90
+London,Bangalore,30
+London,Harbin,19
+London,Chengdu,28
+London,Guangzhou,28
+London,Baghdad,97
+London,Jinan,63
+London,Yangon,67
+London,Milano,80
+London,Pusan,12
+London,Belo Horizonte,62
+London,San Francisco,45
+London,Alexandria,51
+London,Houston,66
+London,Guadalajara,75
+London,Chongging,56
+London,Medellin,8
+London,Detroit,97
+London,Frankfurt,96
+London,Sydney,49
+London,Casablanca,66
+London,Montreal,13
+London,Abidjan,85
+London,Recife,93
+London,Dusseldorf,89
+London,Dalian,73
+London,Adis Abeba,15
+London,Athina,62
+London,Cape Town,72
+London,Koln,89
+London,Maputo,8
+London,Napoli,26
+Lima,Tehran,25
+Lima,Hyderabad,80
+Lima,Chennai,90
+Lima,Essen,5
+Lima,Lahore,52
+Lima,Shenyang,100
+Lima,Harbin,35
+Lima,Chengdu,16
+Lima,St. Petersburg,31
+Lima,Kinshasa,90
+Lima,Baghdad,93
+Lima,Wuhan,34
+Lima,Alger,29
+Lima,Pusan,89
+Lima,Belo Horizonte,65
+Lima,San Francisco,78
+Lima,Alexandria,70
+Lima,Washington DC,49
+Lima,Houston,89
+Lima,Dallas,90
+Lima,Chongging,63
+Lima,Medellin,56
+Lima,Handan,65
+Lima,Frankfurt,55
+Lima,Porto Alegre,37
+Lima,Singapore,57
+Lima,Casablanca,11
+Lima,Katowice,50
+Lima,Bangdung,13
+Lima,Monterrey,22
+Lima,Nagoya,72
+Lima,Nanjing,92
+Lima,Abidjan,58
+Lima,Recife,4
+Lima,Dusseldorf,72
+Lima,Ankara,12
+Lima,Melbourne,75
+Lima,Caracas,14
+Lima,Adis Abeba,80
+Lima,Athina,87
+Tehran,Bangkok,19
+Tehran,Chicago,8
+Tehran,Bogota,69
+Tehran,Hyderabad,29
+Tehran,Chennai,64
+Tehran,Harbin,62
+Tehran,Chengdu,76
+Tehran,Santiago,2
+Tehran,Guangzhou,20
+Tehran,St. Petersburg,28
+Tehran,Wuhan,4
+Tehran,Toronto,30
+Tehran,Yangon,35
+Tehran,Alger,50
+Tehran,Philadelphia,38
+Tehran,Qingdao,13
+Tehran,Madrid,90
+Tehran,Alexandria,72
+Tehran,Washington DC,20
+Tehran,Dallas,56
+Tehran,Guadalajara,24
+Tehran,Medellin,1
+Tehran,Handan,35
+Tehran,Sydney,39
+Tehran,Santo Domingo,80
+Tehran,Katowice,3
+Tehran,Monterrey,66
+Tehran,Montreal,55
+Tehran,Nagoya,7
+Tehran,Nanjing,7
+Tehran,Abidjan,80
+Tehran,Xi'an,71
+Tehran,Berlin,86
+Tehran,Dusseldorf,76
+Tehran,Ankara,70
+Tehran,Melbourne,44
+Tehran,Salvador,100
+Tehran,Dalian,53
+Tehran,Athina,35
+Tehran,Koln,38
+Bangkok,Bogota,64
+Bangkok,Hyderabad,36
+Bangkok,Essen,64
+Bangkok,Hong Kong,34
+Bangkok,Shenyang,53
+Bangkok,Changchun,98
+Bangkok,Bangalore,68
+Bangkok,Harbin,62
+Bangkok,Santiago,4
+Bangkok,Guangzhou,76
+Bangkok,St. Petersburg,40
+Bangkok,Jinan,10
+Bangkok,Wuhan,97
+Bangkok,Toronto,65
+Bangkok,Alger,26
+Bangkok,Milano,74
+Bangkok,Belo Horizonte,52
+Bangkok,Madrid,77
+Bangkok,San Francisco,21
+Bangkok,Washington DC,62
+Bangkok,Dallas,71
+Bangkok,Guadalajara,38
+Bangkok,Medellin,94
+Bangkok,Detroit,38
+Bangkok,Frankfurt,39
+Bangkok,Porto Alegre,57
+Bangkok,Singapore,67
+Bangkok,Pune,38
+Bangkok,Bangdung,47
+Bangkok,Montreal,13
+Bangkok,Nagoya,25
+Bangkok,Abidjan,36
+Bangkok,Berlin,10
+Bangkok,Dusseldorf,68
+Bangkok,Ankara,42
+Bangkok,Salvador,98
+Bangkok,Cape Town,82
+Bangkok,Koln,74
+Bangkok,Napoli,32
+Chicago,Bogota,65
+Chicago,Essen,25
+Chicago,Hangzhou,98
+Chicago,Changchun,22
+Chicago,Bangalore,60
+Chicago,Harbin,58
+Chicago,Santiago,77
+Chicago,Guangzhou,11
+Chicago,St. Petersburg,41
+Chicago,Jinan,62
+Chicago,Toronto,53
+Chicago,Yangon,34
+Chicago,Alger,35
+Chicago,Philadelphia,61
+Chicago,Belo Horizonte,51
+Chicago,Almadabad,38
+Chicago,Madrid,11
+Chicago,Washington DC,57
+Chicago,Houston,58
+Chicago,Medellin,77
+Chicago,Handan,95
+Chicago,Hanoi,4
+Chicago,Sydney,18
+Chicago,Santo Domingo,47
+Chicago,Singapore,15
+Chicago,Casablanca,94
+Chicago,Katowice,22
+Chicago,Pune,7
+Chicago,Monterrey,8
+Chicago,Nagoya,10
+Chicago,Abidjan,66
+Chicago,Berlin,99
+Chicago,Ankara,62
+Chicago,Dalian,14
+Chicago,Caracas,44
+Chicago,Adis Abeba,46
+Chicago,Athina,87
+Chicago,Maputo,51
+Bogota,Hyderabad,89
+Bogota,Chennai,74
+Bogota,Essen,87
+Bogota,Hangzhou,26
+Bogota,Hong Kong,95
+Bogota,Lahore,2
+Bogota,Changchun,76
+Bogota,Harbin,96
+Bogota,Chengdu,32
+Bogota,Guangzhou,53
+Bogota,St. Petersburg,81
+Bogota,Kinshasa,30
+Bogota,Jinan,9
+Bogota,Toronto,43
+Bogota,Yangon,18
+Bogota,Qingdao,43
+Bogota,Milano,43
+Bogota,Belo Horizonte,25
+Bogota,Almadabad,63
+Bogota,Madrid,56
+Bogota,San Francisco,71
+Bogota,Alexandria,41
+Bogota,Washington DC,27
+Bogota,Chongging,87
+Bogota,Detroit,51
+Bogota,Hanoi,74
+Bogota,Santo Domingo,32
+Bogota,Singapore,83
+Bogota,Pune,39
+Bogota,Nanjing,57
+Bogota,Xi'an,86
+Bogota,Berlin,4
+Bogota,Melbourne,73
+Bogota,Dalian,16
+Bogota,Caracas,17
+Bogota,Adis Abeba,33
+Bogota,Cape Town,22
+Hyderabad,Chennai,93
+Hyderabad,Lahore,65
+Hyderabad,Shenyang,76
+Hyderabad,Changchun,50
+Hyderabad,Chengdu,89
+Hyderabad,Santiago,58
+Hyderabad,St. Petersburg,59
+Hyderabad,Kinshasa,87
+Hyderabad,Jinan,20
+Hyderabad,Yangon,9
+Hyderabad,Qingdao,10
+Hyderabad,Milano,69
+Hyderabad,Pusan,4
+Hyderabad,Belo Horizonte,29
+Hyderabad,San Francisco,74
+Hyderabad,Alexandria,17
+Hyderabad,Dallas,20
+Hyderabad,Guadalajara,65
+Hyderabad,Medellin,85
+Hyderabad,Detroit,41
+Hyderabad,Frankfurt,37
+Hyderabad,Singapore,98
+Hyderabad,Katowice,61
+Hyderabad,Pune,30
+Hyderabad,Bangdung,63
+Hyderabad,Nagoya,77
+Hyderabad,Nanjing,48
+Hyderabad,Abidjan,92
+Hyderabad,Xi'an,27
+Hyderabad,Riyadh,68
+Hyderabad,Ankara,32
+Hyderabad,Melbourne,93
+Hyderabad,Dalian,47
+Hyderabad,Caracas,100
+Hyderabad,Adis Abeba,62
+Hyderabad,Cape Town,16
+Hyderabad,Koln,17
+Hyderabad,Maputo,87
+Hyderabad,Napoli,36
+Chennai,Ho Chi Minh City,65
+Chennai,Hangzhou,87
+Chennai,Hong Kong,47
+Chennai,Lahore,57
+Chennai,Bangalore,90
+Chennai,St. Petersburg,58
+Chennai,Jinan,20
+Chennai,Yangon,61
+Chennai,Alger,66
+Chennai,Philadelphia,60
+Chennai,Qingdao,86
+Chennai,Belo Horizonte,66
+Chennai,San Francisco,57
+Chennai,Dallas,29
+Chennai,Guadalajara,30
+Chennai,Chongging,67
+Chennai,Handan,61
+Chennai,Frankfurt,30
+Chennai,Porto Alegre,71
+Chennai,Hanoi,67
+Chennai,Singapore,9
+Chennai,Casablanca,11
+Chennai,Katowice,69
+Chennai,Pune,33
+Chennai,Bangdung,86
+Chennai,Monterrey,69
+Chennai,Montreal,60
+Chennai,Berlin,36
+Chennai,Riyadh,37
+Chennai,Recife,100
+Chennai,Dusseldorf,10
+Chennai,Ankara,89
+Chennai,Melbourne,92
+Chennai,Caracas,37
+Chennai,Adis Abeba,53
+Chennai,Maputo,8
+Essen,Hangzhou,30
+Essen,Lahore,83
+Essen,Shenyang,56
+Essen,Bangalore,92
+Essen,Chengdu,81
+Essen,Guangzhou,92
+Essen,Kinshasa,31
+Essen,Jinan,51
+Essen,Wuhan,1
+Essen,Yangon,29
+Essen,Philadelphia,79
+Essen,Qingdao,2
+Essen,Milano,37
+Essen,Belo Horizonte,85
+Essen,Almadabad,27
+Essen,Madrid,18
+Essen,San Francisco,31
+Essen,Alexandria,42
+Essen,Washington DC,59
+Essen,Dallas,8
+Essen,Chongging,1
+Essen,Handan,44
+Essen,Porto Alegre,82
+Essen,Hanoi,25
+Essen,Sydney,21
+Essen,Santo Domingo,9
+Essen,Casablanca,2
+Essen,Pune,94
+Essen,Bangdung,46
+Essen,Monterrey,74
+Essen,Montreal,82
+Essen,Nagoya,47
+Essen,Nanjing,1
+Essen,Xi'an,77
+Essen,Berlin,74
+Essen,Dusseldorf,60
+Essen,Ankara,4
+Essen,Caracas,21
+Essen,Adis Abeba,41
+Essen,Cape Town,45
+Essen,Maputo,76
+Essen,Napoli,17
+Ho Chi Minh City,Lahore,66
+Ho Chi Minh City,Changchun,25
+Ho Chi Minh City,Harbin,24
+Ho Chi Minh City,Guangzhou,27
+Ho Chi Minh City,Yangon,67
+Ho Chi Minh City,Alger,73
+Ho Chi Minh City,Milano,11
+Ho Chi Minh City,Pusan,29
+Ho Chi Minh City,Belo Horizonte,19
+Ho Chi Minh City,Almadabad,70
+Ho Chi Minh City,Washington DC,46
+Ho Chi Minh City,Guadalajara,98
+Ho Chi Minh City,Chongging,96
+Ho Chi Minh City,Handan,41
+Ho Chi Minh City,Hanoi,59
+Ho Chi Minh City,Santo Domingo,31
+Ho Chi Minh City,Katowice,64
+Ho Chi Minh City,Pune,48
+Ho Chi Minh City,Bangdung,48
+Ho Chi Minh City,Montreal,49
+Ho Chi Minh City,Recife,72
+Ho Chi Minh City,Melbourne,45
+Ho Chi Minh City,Cape Town,13
+Ho Chi Minh City,Maputo,66
+Hangzhou,Hong Kong,92
+Hangzhou,Changchun,59
+Hangzhou,Bangalore,97
+Hangzhou,Guangzhou,73
+Hangzhou,Kinshasa,85
+Hangzhou,Baghdad,37
+Hangzhou,Jinan,44
+Hangzhou,Toronto,80
+Hangzhou,Qingdao,53
+Hangzhou,Milano,85
+Hangzhou,Pusan,62
+Hangzhou,Almadabad,88
+Hangzhou,Madrid,42
+Hangzhou,San Francisco,27
+Hangzhou,Houston,45
+Hangzhou,Dallas,74
+Hangzhou,Guadalajara,86
+Hangzhou,Chongging,20
+Hangzhou,Handan,68
+Hangzhou,Frankfurt,86
+Hangzhou,Porto Alegre,65
+Hangzhou,Santo Domingo,1
+Hangzhou,Pune,4
+Hangzhou,Monterrey,66
+Hangzhou,Montreal,22
+Hangzhou,Nanjing,78
+Hangzhou,Xi'an,58
+Hangzhou,Dalian,19
+Hangzhou,Caracas,58
+Hangzhou,Adis Abeba,49
+Hangzhou,Cape Town,82
+Hangzhou,Napoli,17
+Hong Kong,Lahore,15
+Hong Kong,Changchun,30
+Hong Kong,Bangalore,37
+Hong Kong,Kinshasa,85
+Hong Kong,Baghdad,44
+Hong Kong,Jinan,57
+Hong Kong,Toronto,36
+Hong Kong,Alger,91
+Hong Kong,Qingdao,87
+Hong Kong,Milano,99
+Hong Kong,Pusan,83
+Hong Kong,Belo Horizonte,22
+Hong Kong,Almadabad,48
+Hong Kong,Houston,95
+Hong Kong,Dallas,13
+Hong Kong,Guadalajara,39
+Hong Kong,Chongging,52
+Hong Kong,Medellin,25
+Hong Kong,Frankfurt,50
+Hong Kong,Hanoi,68
+Hong Kong,Sydney,11
+Hong Kong,Santo Domingo,19
+Hong Kong,Singapore,13
+Hong Kong,Casablanca,64
+Hong Kong,Katowice,96
+Hong Kong,Bangdung,31
+Hong Kong,Monterrey,1
+Hong Kong,Montreal,48
+Hong Kong,Nagoya,42
+Hong Kong,Nanjing,48
+Hong Kong,Abidjan,16
+Hong Kong,Dusseldorf,19
+Hong Kong,Adis Abeba,77
+Hong Kong,Maputo,18
+Lahore,Changchun,56
+Lahore,Bangalore,49
+Lahore,Santiago,50
+Lahore,Baghdad,90
+Lahore,Jinan,16
+Lahore,Yangon,90
+Lahore,Milano,35
+Lahore,Pusan,46
+Lahore,Almadabad,64
+Lahore,San Francisco,33
+Lahore,Alexandria,3
+Lahore,Guadalajara,10
+Lahore,Chongging,16
+Lahore,Medellin,67
+Lahore,Porto Alegre,69
+Lahore,Sydney,30
+Lahore,Santo Domingo,27
+Lahore,Pune,92
+Lahore,Bangdung,79
+Lahore,Montreal,28
+Lahore,Nagoya,100
+Lahore,Abidjan,49
+Lahore,Berlin,10
+Lahore,Dusseldorf,36
+Lahore,Melbourne,33
+Lahore,Adis Abeba,10
+Lahore,Cape Town,76
+Shenyang,Changchun,45
+Shenyang,Bangalore,88
+Shenyang,Harbin,5
+Shenyang,Chengdu,41
+Shenyang,Baghdad,32
+Shenyang,Wuhan,53
+Shenyang,Belo Horizonte,72
+Shenyang,Madrid,93
+Shenyang,San Francisco,71
+Shenyang,Alexandria,13
+Shenyang,Washington DC,9
+Shenyang,Dallas,13
+Shenyang,Guadalajara,61
+Shenyang,Detroit,24
+Shenyang,Handan,57
+Shenyang,Porto Alegre,91
+Shenyang,Hanoi,36
+Shenyang,Sydney,19
+Shenyang,Pune,14
+Shenyang,Montreal,45
+Shenyang,Abidjan,82
+Shenyang,Xi'an,4
+Shenyang,Berlin,10
+Shenyang,Dusseldorf,68
+Shenyang,Ankara,37
+Shenyang,Melbourne,12
+Shenyang,Salvador,28
+Shenyang,Dalian,59
+Shenyang,Caracas,61
+Shenyang,Adis Abeba,99
+Shenyang,Koln,13
+Changchun,Bangalore,7
+Changchun,Harbin,80
+Changchun,Guangzhou,18
+Changchun,Kinshasa,72
+Changchun,Jinan,2
+Changchun,Toronto,62
+Changchun,Philadelphia,76
+Changchun,Qingdao,37
+Changchun,Belo Horizonte,33
+Changchun,Madrid,11
+Changchun,Washington DC,11
+Changchun,Dallas,63
+Changchun,Chongging,29
+Changchun,Detroit,54
+Changchun,Frankfurt,46
+Changchun,Hanoi,51
+Changchun,Sydney,77
+Changchun,Santo Domingo,75
+Changchun,Casablanca,93
+Changchun,Katowice,9
+Changchun,Monterrey,75
+Changchun,Nagoya,12
+Changchun,Abidjan,73
+Changchun,Berlin,44
+Changchun,Recife,39
+Changchun,Ankara,13
+Changchun,Salvador,75
+Changchun,Dalian,44
+Changchun,Adis Abeba,42
+Changchun,Koln,71
+Changchun,Napoli,28
+Bangalore,Harbin,67
+Bangalore,St. Petersburg,41
+Bangalore,Kinshasa,18
+Bangalore,Baghdad,20
+Bangalore,Yangon,19
+Bangalore,Philadelphia,60
+Bangalore,Milano,98
+Bangalore,Madrid,6
+Bangalore,Washington DC,19
+Bangalore,Houston,5
+Bangalore,Dallas,54
+Bangalore,Guadalajara,8
+Bangalore,Handan,23
+Bangalore,Porto Alegre,17
+Bangalore,Santo Domingo,54
+Bangalore,Singapore,59
+Bangalore,Katowice,65
+Bangalore,Pune,78
+Bangalore,Bangdung,81
+Bangalore,Montreal,25
+Bangalore,Nagoya,72
+Bangalore,Nanjing,14
+Bangalore,Berlin,75
+Bangalore,Riyadh,82
+Bangalore,Recife,74
+Bangalore,Salvador,25
+Bangalore,Adis Abeba,29
+Bangalore,Koln,97
+Bangalore,Maputo,81
+Bangalore,Napoli,25
+Harbin,Chengdu,39
+Harbin,Guangzhou,3
+Harbin,Kinshasa,73
+Harbin,Baghdad,64
+Harbin,Jinan,24
+Harbin,Wuhan,4
+Harbin,Philadelphia,4
+Harbin,Pusan,29
+Harbin,Belo Horizonte,27
+Harbin,Madrid,42
+Harbin,Washington DC,20
+Harbin,Houston,82
+Harbin,Porto Alegre,62
+Harbin,Santo Domingo,70
+Harbin,Pune,55
+Harbin,Bangdung,89
+Harbin,Montreal,14
+Harbin,Nanjing,33
+Harbin,Abidjan,66
+Harbin,Xi'an,93
+Harbin,Riyadh,80
+Harbin,Dalian,59
+Harbin,Caracas,32
+Harbin,Athina,92
+Harbin,Cape Town,74
+Harbin,Maputo,61
+Harbin,Napoli,36
+Chengdu,Santiago,44
+Chengdu,Guangzhou,100
+Chengdu,St. Petersburg,32
+Chengdu,Baghdad,47
+Chengdu,Jinan,9
+Chengdu,Wuhan,21
+Chengdu,Alger,36
+Chengdu,Pusan,19
+Chengdu,Almadabad,83
+Chengdu,Madrid,28
+Chengdu,San Francisco,16
+Chengdu,Alexandria,75
+Chengdu,Washington DC,71
+Chengdu,Dallas,12
+Chengdu,Chongging,93
+Chengdu,Medellin,29
+Chengdu,Hanoi,51
+Chengdu,Casablanca,71
+Chengdu,Monterrey,72
+Chengdu,Montreal,51
+Chengdu,Nagoya,41
+Chengdu,Nanjing,36
+Chengdu,Abidjan,56
+Chengdu,Xi'an,43
+Chengdu,Berlin,34
+Chengdu,Dusseldorf,44
+Chengdu,Salvador,55
+Chengdu,Caracas,37
+Chengdu,Adis Abeba,60
+Chengdu,Koln,86
+Santiago,St. Petersburg,32
+Santiago,Jinan,70
+Santiago,Wuhan,12
+Santiago,Alger,32
+Santiago,Milano,41
+Santiago,Pusan,29
+Santiago,Almadabad,66
+Santiago,San Francisco,51
+Santiago,Alexandria,96
+Santiago,Washington DC,73
+Santiago,Detroit,76
+Santiago,Handan,22
+Santiago,Frankfurt,47
+Santiago,Sydney,78
+Santiago,Singapore,40
+Santiago,Katowice,99
+Santiago,Bangdung,60
+Santiago,Nanjing,34
+Santiago,Abidjan,79
+Santiago,Xi'an,97
+Santiago,Riyadh,27
+Santiago,Melbourne,49
+Santiago,Caracas,39
+Santiago,Athina,65
+Santiago,Cape Town,1
+Santiago,Koln,9
+Santiago,Maputo,41
+Santiago,Napoli,81
+Guangzhou,St. Petersburg,87
+Guangzhou,Kinshasa,57
+Guangzhou,Baghdad,38
+Guangzhou,Jinan,15
+Guangzhou,Toronto,97
+Guangzhou,Qingdao,4
+Guangzhou,Madrid,51
+Guangzhou,San Francisco,87
+Guangzhou,Dallas,60
+Guangzhou,Guadalajara,92
+Guangzhou,Medellin,31
+Guangzhou,Handan,31
+Guangzhou,Frankfurt,24
+Guangzhou,Hanoi,37
+Guangzhou,Sydney,63
+Guangzhou,Santo Domingo,65
+Guangzhou,Casablanca,39
+Guangzhou,Katowice,50
+Guangzhou,Pune,39
+Guangzhou,Bangdung,83
+Guangzhou,Monterrey,45
+Guangzhou,Nanjing,100
+Guangzhou,Abidjan,100
+Guangzhou,Xi'an,95
+Guangzhou,Dusseldorf,85
+Guangzhou,Ankara,58
+Guangzhou,Dalian,36
+Guangzhou,Athina,48
+Guangzhou,Cape Town,24
+Guangzhou,Maputo,20
+Guangzhou,Napoli,60
+St. Petersburg,Kinshasa,49
+St. Petersburg,Baghdad,44
+St. Petersburg,Yangon,81
+St. Petersburg,Alger,99
+St. Petersburg,Philadelphia,21
+St. Petersburg,Qingdao,24
+St. Petersburg,Pusan,31
+St. Petersburg,Madrid,65
+St. Petersburg,San Francisco,14
+St. Petersburg,Washington DC,53
+St. Petersburg,Houston,44
+St. Petersburg,Dallas,55
+St. Petersburg,Handan,98
+St. Petersburg,Hanoi,51
+St. Petersburg,Bangdung,95
+St. Petersburg,Monterrey,24
+St. Petersburg,Nagoya,96
+St. Petersburg,Nanjing,36
+St. Petersburg,Abidjan,51
+St. Petersburg,Xi'an,20
+St. Petersburg,Riyadh,52
+St. Petersburg,Recife,15
+St. Petersburg,Dusseldorf,28
+St. Petersburg,Ankara,30
+St. Petersburg,Melbourne,66
+St. Petersburg,Salvador,82
+St. Petersburg,Caracas,85
+St. Petersburg,Adis Abeba,32
+St. Petersburg,Cape Town,24
+St. Petersburg,Koln,79
+St. Petersburg,Napoli,51
+Kinshasa,Jinan,39
+Kinshasa,Wuhan,71
+Kinshasa,Toronto,19
+Kinshasa,Milano,15
+Kinshasa,San Francisco,45
+Kinshasa,Alexandria,73
+Kinshasa,Houston,67
+Kinshasa,Dallas,58
+Kinshasa,Guadalajara,11
+Kinshasa,Medellin,97
+Kinshasa,Porto Alegre,38
+Kinshasa,Hanoi,34
+Kinshasa,Sydney,41
+Kinshasa,Singapore,14
+Kinshasa,Casablanca,98
+Kinshasa,Katowice,94
+Kinshasa,Bangdung,86
+Kinshasa,Nagoya,51
+Kinshasa,Xi'an,10
+Kinshasa,Riyadh,73
+Kinshasa,Dusseldorf,35
+Kinshasa,Melbourne,34
+Kinshasa,Salvador,95
+Kinshasa,Dalian,51
+Kinshasa,Athina,39
+Kinshasa,Cape Town,37
+Kinshasa,Koln,63
+Kinshasa,Napoli,52
+Baghdad,Wuhan,6
+Baghdad,Yangon,50
+Baghdad,Alger,16
+Baghdad,Philadelphia,31
+Baghdad,Milano,18
+Baghdad,Belo Horizonte,27
+Baghdad,Madrid,2
+Baghdad,San Francisco,40
+Baghdad,Alexandria,82
+Baghdad,Dallas,71
+Baghdad,Guadalajara,56
+Baghdad,Frankfurt,17
+Baghdad,Porto Alegre,100
+Baghdad,Katowice,21
+Baghdad,Pune,9
+Baghdad,Bangdung,66
+Baghdad,Nagoya,4
+Baghdad,Riyadh,55
+Baghdad,Recife,74
+Baghdad,Melbourne,69
+Baghdad,Salvador,77
+Baghdad,Athina,48
+Jinan,Wuhan,75
+Jinan,Toronto,28
+Jinan,Yangon,95
+Jinan,Philadelphia,25
+Jinan,Qingdao,31
+Jinan,Milano,3
+Jinan,Pusan,20
+Jinan,Belo Horizonte,42
+Jinan,Almadabad,17
+Jinan,Madrid,60
+Jinan,Houston,38
+Jinan,Medellin,1
+Jinan,Detroit,13
+Jinan,Santo Domingo,36
+Jinan,Katowice,77
+Jinan,Montreal,97
+Jinan,Nagoya,38
+Jinan,Nanjing,59
+Jinan,Abidjan,70
+Jinan,Berlin,37
+Jinan,Dusseldorf,86
+Jinan,Melbourne,20
+Jinan,Dalian,8
+Jinan,Adis Abeba,10
+Jinan,Koln,59
+Jinan,Napoli,79
+Wuhan,Toronto,86
+Wuhan,Yangon,31
+Wuhan,Alger,79
+Wuhan,Qingdao,2
+Wuhan,Pusan,82
+Wuhan,Belo Horizonte,35
+Wuhan,Almadabad,52
+Wuhan,San Francisco,34
+Wuhan,Washington DC,13
+Wuhan,Houston,81
+Wuhan,Dallas,92
+Wuhan,Guadalajara,59
+Wuhan,Chongging,55
+Wuhan,Porto Alegre,37
+Wuhan,Sydney,88
+Wuhan,Santo Domingo,27
+Wuhan,Pune,60
+Wuhan,Nanjing,28
+Wuhan,Xi'an,40
+Wuhan,Berlin,9
+Wuhan,Recife,93
+Wuhan,Ankara,70
+Wuhan,Melbourne,47
+Wuhan,Salvador,89
+Wuhan,Cape Town,77
+Wuhan,Koln,31
+Wuhan,Maputo,64
+Toronto,Alger,45
+Toronto,Philadelphia,60
+Toronto,Qingdao,17
+Toronto,Pusan,57
+Toronto,Madrid,6
+Toronto,San Francisco,22
+Toronto,Alexandria,67
+Toronto,Washington DC,46
+Toronto,Houston,44
+Toronto,Guadalajara,85
+Toronto,Chongging,30
+Toronto,Detroit,91
+Toronto,Handan,26
+Toronto,Frankfurt,28
+Toronto,Hanoi,64
+Toronto,Santo Domingo,15
+Toronto,Pune,78
+Toronto,Monterrey,70
+Toronto,Nagoya,64
+Toronto,Xi'an,20
+Toronto,Berlin,14
+Toronto,Dusseldorf,42
+Toronto,Dalian,36
+Toronto,Caracas,1
+Toronto,Athina,41
+Toronto,Napoli,66
+Yangon,Alger,7
+Yangon,Milano,39
+Yangon,Pusan,44
+Yangon,Belo Horizonte,50
+Yangon,Almadabad,74
+Yangon,Houston,42
+Yangon,Handan,70
+Yangon,Frankfurt,74
+Yangon,Porto Alegre,38
+Yangon,Santo Domingo,99
+Yangon,Katowice,71
+Yangon,Pune,72
+Yangon,Nagoya,48
+Yangon,Nanjing,89
+Yangon,Berlin,54
+Yangon,Riyadh,44
+Yangon,Recife,51
+Yangon,Dusseldorf,3
+Yangon,Ankara,9
+Yangon,Melbourne,35
+Yangon,Dalian,47
+Yangon,Caracas,50
+Yangon,Athina,66
+Yangon,Cape Town,8
+Yangon,Maputo,33
+Yangon,Napoli,26
+Alger,Qingdao,98
+Alger,Milano,30
+Alger,Almadabad,97
+Alger,Madrid,82
+Alger,San Francisco,48
+Alger,Alexandria,4
+Alger,Washington DC,80
+Alger,Houston,77
+Alger,Dallas,47
+Alger,Chongging,37
+Alger,Medellin,81
+Alger,Handan,20
+Alger,Porto Alegre,20
+Alger,Singapore,77
+Alger,Casablanca,51
+Alger,Pune,23
+Alger,Nagoya,77
+Alger,Nanjing,69
+Alger,Abidjan,81
+Alger,Recife,85
+Alger,Melbourne,39
+Alger,Dalian,88
+Alger,Athina,85
+Alger,Cape Town,89
+Alger,Maputo,72
+Alger,Napoli,14
+Philadelphia,Qingdao,67
+Philadelphia,Milano,94
+Philadelphia,Houston,18
+Philadelphia,Detroit,21
+Philadelphia,Handan,69
+Philadelphia,Porto Alegre,53
+Philadelphia,Sydney,99
+Philadelphia,Santo Domingo,88
+Philadelphia,Singapore,63
+Philadelphia,Casablanca,78
+Philadelphia,Katowice,44
+Philadelphia,Pune,97
+Philadelphia,Bangdung,98
+Philadelphia,Monterrey,41
+Philadelphia,Nanjing,61
+Philadelphia,Abidjan,16
+Philadelphia,Berlin,23
+Philadelphia,Riyadh,17
+Philadelphia,Dusseldorf,96
+Philadelphia,Ankara,68
+Philadelphia,Dalian,13
+Philadelphia,Caracas,29
+Philadelphia,Adis Abeba,72
+Philadelphia,Athina,32
+Philadelphia,Koln,71
+Philadelphia,Napoli,11
+Qingdao,Almadabad,100
+Qingdao,Madrid,58
+Qingdao,Alexandria,51
+Qingdao,Washington DC,70
+Qingdao,Dallas,19
+Qingdao,Guadalajara,68
+Qingdao,Chongging,26
+Qingdao,Medellin,78
+Qingdao,Santo Domingo,56
+Qingdao,Casablanca,11
+Qingdao,Pune,5
+Qingdao,Bangdung,77
+Qingdao,Monterrey,100
+Qingdao,Montreal,67
+Qingdao,Nagoya,12
+Qingdao,Abidjan,79
+Qingdao,Salvador,33
+Qingdao,Adis Abeba,32
+Qingdao,Maputo,12
+Qingdao,Napoli,35
+Milano,Pusan,88
+Milano,Belo Horizonte,5
+Milano,Madrid,73
+Milano,San Francisco,17
+Milano,Washington DC,77
+Milano,Houston,33
+Milano,Dallas,8
+Milano,Guadalajara,59
+Milano,Detroit,27
+Milano,Handan,60
+Milano,Frankfurt,90
+Milano,Sydney,69
+Milano,Santo Domingo,9
+Milano,Casablanca,27
+Milano,Bangdung,63
+Milano,Montreal,32
+Milano,Nagoya,87
+Milano,Riyadh,31
+Milano,Recife,65
+Milano,Melbourne,21
+Milano,Salvador,31
+Milano,Dalian,18
+Milano,Caracas,63
+Milano,Athina,38
+Milano,Cape Town,49
+Milano,Maputo,96
+Pusan,Belo Horizonte,63
+Pusan,Almadabad,77
+Pusan,Madrid,69
+Pusan,San Francisco,24
+Pusan,Alexandria,43
+Pusan,Dallas,24
+Pusan,Chongging,86
+Pusan,Medellin,97
+Pusan,Handan,57
+Pusan,Porto Alegre,4
+Pusan,Sydney,89
+Pusan,Katowice,94
+Pusan,Monterrey,84
+Pusan,Montreal,29
+Pusan,Nanjing,39
+Pusan,Xi'an,16
+Pusan,Berlin,61
+Pusan,Riyadh,16
+Pusan,Ankara,97
+Pusan,Salvador,92
+Pusan,Adis Abeba,31
+Pusan,Athina,6
+Pusan,Cape Town,33
+Pusan,Maputo,84
+Belo Horizonte,San Francisco,74
+Belo Horizonte,Alexandria,88
+Belo Horizonte,Washington DC,66
+Belo Horizonte,Houston,50
+Belo Horizonte,Guadalajara,43
+Belo Horizonte,Chongging,98
+Belo Horizonte,Handan,42
+Belo Horizonte,Frankfurt,79
+Belo Horizonte,Singapore,3
+Belo Horizonte,Casablanca,97
+Belo Horizonte,Katowice,65
+Belo Horizonte,Pune,95
+Belo Horizonte,Nanjing,10
+Belo Horizonte,Recife,59
+Belo Horizonte,Dalian,95
+Belo Horizonte,Adis Abeba,86
+Belo Horizonte,Athina,64
+Belo Horizonte,Cape Town,30
+Almadabad,Washington DC,21
+Almadabad,Guadalajara,78
+Almadabad,Detroit,1
+Almadabad,Hanoi,85
+Almadabad,Sydney,10
+Almadabad,Singapore,27
+Almadabad,Casablanca,80
+Almadabad,Montreal,53
+Almadabad,Nanjing,91
+Almadabad,Abidjan,70
+Almadabad,Xi'an,30
+Almadabad,Berlin,94
+Almadabad,Riyadh,49
+Almadabad,Recife,52
+Almadabad,Ankara,67
+Almadabad,Salvador,84
+Almadabad,Caracas,48
+Almadabad,Adis Abeba,71
+Almadabad,Athina,25
+Almadabad,Koln,77
+Almadabad,Maputo,76
+Almadabad,Napoli,14
+Madrid,Alexandria,30
+Madrid,Houston,34
+Madrid,Dallas,95
+Madrid,Guadalajara,71
+Madrid,Chongging,36
+Madrid,Handan,37
+Madrid,Hanoi,23
+Madrid,Singapore,69
+Madrid,Katowice,31
+Madrid,Pune,94
+Madrid,Bangdung,37
+Madrid,Montreal,78
+Madrid,Nanjing,33
+Madrid,Abidjan,72
+Madrid,Xi'an,65
+Madrid,Berlin,62
+Madrid,Riyadh,67
+Madrid,Recife,74
+Madrid,Dusseldorf,16
+Madrid,Salvador,73
+Madrid,Dalian,51
+Madrid,Maputo,95
+Madrid,Napoli,1
+San Francisco,Alexandria,22
+San Francisco,Washington DC,1
+San Francisco,Houston,77
+San Francisco,Detroit,53
+San Francisco,Handan,38
+San Francisco,Frankfurt,53
+San Francisco,Porto Alegre,97
+San Francisco,Hanoi,53
+San Francisco,Sydney,100
+San Francisco,Singapore,29
+San Francisco,Casablanca,9
+San Francisco,Bangdung,29
+San Francisco,Monterrey,69
+San Francisco,Nagoya,98
+San Francisco,Dusseldorf,53
+San Francisco,Ankara,31
+San Francisco,Caracas,77
+San Francisco,Cape Town,54
+San Francisco,Koln,35
+San Francisco,Maputo,34
+Alexandria,Houston,36
+Alexandria,Guadalajara,29
+Alexandria,Medellin,78
+Alexandria,Detroit,60
+Alexandria,Santo Domingo,57
+Alexandria,Singapore,66
+Alexandria,Katowice,83
+Alexandria,Xi'an,32
+Alexandria,Berlin,49
+Alexandria,Recife,54
+Alexandria,Ankara,74
+Alexandria,Melbourne,16
+Alexandria,Salvador,8
+Alexandria,Dalian,89
+Alexandria,Koln,89
+Alexandria,Napoli,11
+Washington DC,Houston,11
+Washington DC,Dallas,95
+Washington DC,Guadalajara,95
+Washington DC,Frankfurt,58
+Washington DC,Porto Alegre,64
+Washington DC,Santo Domingo,70
+Washington DC,Singapore,27
+Washington DC,Katowice,45
+Washington DC,Pune,46
+Washington DC,Nagoya,81
+Washington DC,Nanjing,38
+Washington DC,Abidjan,61
+Washington DC,Berlin,74
+Washington DC,Ankara,21
+Washington DC,Melbourne,49
+Washington DC,Salvador,39
+Washington DC,Dalian,15
+Washington DC,Adis Abeba,58
+Washington DC,Koln,39
+Washington DC,Maputo,29
+Houston,Guadalajara,21
+Houston,Medellin,69
+Houston,Handan,68
+Houston,Hanoi,72
+Houston,Sydney,85
+Houston,Singapore,86
+Houston,Casablanca,49
+Houston,Monterrey,16
+Houston,Nanjing,47
+Houston,Abidjan,60
+Houston,Xi'an,8
+Houston,Berlin,41
+Houston,Dusseldorf,75
+Houston,Ankara,2
+Houston,Athina,59
+Dallas,Guadalajara,70
+Dallas,Detroit,5
+Dallas,Handan,8
+Dallas,Hanoi,74
+Dallas,Sydney,66
+Dallas,Santo Domingo,98
+Dallas,Casablanca,89
+Dallas,Katowice,6
+Dallas,Montreal,71
+Dallas,Abidjan,60
+Dallas,Recife,82
+Dallas,Ankara,25
+Dallas,Salvador,60
+Dallas,Athina,54
+Dallas,Cape Town,62
+Dallas,Maputo,31
+Dallas,Napoli,21
+Guadalajara,Medellin,23
+Guadalajara,Handan,16
+Guadalajara,Frankfurt,51
+Guadalajara,Hanoi,60
+Guadalajara,Sydney,60
+Guadalajara,Santo Domingo,61
+Guadalajara,Casablanca,23
+Guadalajara,Katowice,97
+Guadalajara,Bangdung,91
+Guadalajara,Monterrey,46
+Guadalajara,Montreal,94
+Guadalajara,Nagoya,51
+Guadalajara,Abidjan,60
+Guadalajara,Xi'an,86
+Guadalajara,Berlin,23
+Guadalajara,Dusseldorf,46
+Guadalajara,Melbourne,87
+Guadalajara,Salvador,44
+Guadalajara,Adis Abeba,83
+Guadalajara,Koln,88
+Guadalajara,Maputo,55
+Guadalajara,Napoli,58
+Chongging,Medellin,83
+Chongging,Detroit,47
+Chongging,Handan,70
+Chongging,Hanoi,4
+Chongging,Sydney,61
+Chongging,Santo Domingo,3
+Chongging,Singapore,14
+Chongging,Katowice,85
+Chongging,Pune,63
+Chongging,Bangdung,31
+Chongging,Nagoya,48
+Chongging,Nanjing,36
+Chongging,Melbourne,98
+Chongging,Salvador,29
+Chongging,Cape Town,54
+Medellin,Detroit,94
+Medellin,Handan,45
+Medellin,Frankfurt,79
+Medellin,Sydney,72
+Medellin,Santo Domingo,75
+Medellin,Singapore,80
+Medellin,Bangdung,48
+Medellin,Montreal,20
+Medellin,Nagoya,94
+Medellin,Xi'an,44
+Medellin,Ankara,17
+Medellin,Dalian,21
+Medellin,Caracas,3
+Medellin,Adis Abeba,21
+Medellin,Maputo,98
+Medellin,Napoli,6
+Detroit,Hanoi,39
+Detroit,Santo Domingo,52
+Detroit,Singapore,73
+Detroit,Pune,11
+Detroit,Nanjing,91
+Detroit,Abidjan,23
+Detroit,Xi'an,33
+Detroit,Berlin,9
+Detroit,Ankara,41
+Detroit,Dalian,13
+Detroit,Athina,73
+Handan,Frankfurt,48
+Handan,Porto Alegre,3
+Handan,Santo Domingo,4
+Handan,Singapore,14
+Handan,Casablanca,62
+Handan,Katowice,100
+Handan,Bangdung,97
+Handan,Monterrey,50
+Handan,Nanjing,100
+Handan,Abidjan,18
+Handan,Xi'an,40
+Handan,Berlin,28
+Handan,Riyadh,46
+Handan,Recife,22
+Handan,Ankara,55
+Handan,Melbourne,81
+Handan,Salvador,51
+Handan,Maputo,80
+Handan,Napoli,55
+Frankfurt,Singapore,31
+Frankfurt,Pune,29
+Frankfurt,Montreal,19
+Frankfurt,Nanjing,71
+Frankfurt,Berlin,38
+Frankfurt,Riyadh,96
+Frankfurt,Dusseldorf,39
+Frankfurt,Melbourne,38
+Frankfurt,Dalian,39
+Frankfurt,Caracas,98
+Frankfurt,Adis Abeba,30
+Frankfurt,Maputo,19
+Porto Alegre,Casablanca,56
+Porto Alegre,Pune,4
+Porto Alegre,Bangdung,89
+Porto Alegre,Monterrey,91
+Porto Alegre,Montreal,28
+Porto Alegre,Nagoya,92
+Porto Alegre,Nanjing,42
+Porto Alegre,Berlin,84
+Porto Alegre,Riyadh,80
+Porto Alegre,Ankara,29
+Porto Alegre,Melbourne,23
+Porto Alegre,Athina,13
+Porto Alegre,Cape Town,80
+Hanoi,Sydney,9
+Hanoi,Singapore,20
+Hanoi,Casablanca,93
+Hanoi,Pune,20
+Hanoi,Xi'an,8
+Hanoi,Berlin,22
+Hanoi,Riyadh,55
+Hanoi,Recife,45
+Hanoi,Melbourne,38
+Hanoi,Salvador,99
+Hanoi,Dalian,20
+Hanoi,Caracas,77
+Hanoi,Athina,49
+Hanoi,Koln,54
+Sydney,Casablanca,39
+Sydney,Pune,68
+Sydney,Bangdung,2
+Sydney,Monterrey,18
+Sydney,Montreal,73
+Sydney,Nanjing,95
+Sydney,Abidjan,30
+Sydney,Riyadh,4
+Sydney,Recife,5
+Sydney,Dusseldorf,38
+Sydney,Melbourne,74
+Sydney,Salvador,63
+Sydney,Dalian,67
+Sydney,Caracas,51
+Sydney,Adis Abeba,59
+Sydney,Athina,38
+Sydney,Cape Town,56
+Santo Domingo,Singapore,98
+Santo Domingo,Casablanca,87
+Santo Domingo,Katowice,26
+Santo Domingo,Pune,50
+Santo Domingo,Monterrey,91
+Santo Domingo,Montreal,15
+Santo Domingo,Nagoya,56
+Santo Domingo,Nanjing,65
+Santo Domingo,Berlin,90
+Santo Domingo,Recife,42
+Santo Domingo,Dusseldorf,69
+Santo Domingo,Ankara,48
+Santo Domingo,Melbourne,8
+Santo Domingo,Salvador,39
+Santo Domingo,Dalian,81
+Santo Domingo,Cape Town,30
+Santo Domingo,Koln,77
+Santo Domingo,Maputo,28
+Singapore,Casablanca,13
+Singapore,Katowice,54
+Singapore,Bangdung,89
+Singapore,Montreal,87
+Singapore,Abidjan,64
+Singapore,Xi'an,50
+Singapore,Ankara,53
+Singapore,Melbourne,15
+Singapore,Salvador,89
+Singapore,Adis Abeba,22
+Singapore,Cape Town,89
+Singapore,Maputo,20
+Singapore,Napoli,99
+Casablanca,Katowice,5
+Casablanca,Pune,33
+Casablanca,Bangdung,94
+Casablanca,Monterrey,61
+Casablanca,Nagoya,50
+Casablanca,Nanjing,93
+Casablanca,Abidjan,36
+Casablanca,Xi'an,18
+Casablanca,Recife,65
+Casablanca,Dalian,75
+Casablanca,Caracas,16
+Casablanca,Koln,95
+Casablanca,Napoli,22
+Katowice,Monterrey,61
+Katowice,Montreal,77
+Katowice,Nanjing,21
+Katowice,Riyadh,62
+Katowice,Recife,73
+Katowice,Dusseldorf,93
+Katowice,Melbourne,24
+Katowice,Salvador,85
+Katowice,Cape Town,49
+Katowice,Koln,71
+Pune,Monterrey,51
+Pune,Montreal,19
+Pune,Nagoya,88
+Pune,Xi'an,68
+Pune,Berlin,15
+Pune,Riyadh,36
+Pune,Recife,78
+Pune,Dusseldorf,31
+Pune,Salvador,42
+Pune,Maputo,22
+Bangdung,Nanjing,53
+Bangdung,Xi'an,77
+Bangdung,Recife,95
+Bangdung,Dusseldorf,92
+Bangdung,Melbourne,17
+Bangdung,Salvador,9
+Bangdung,Dalian,40
+Bangdung,Caracas,98
+Bangdung,Koln,17
+Bangdung,Napoli,54
+Monterrey,Nagoya,30
+Monterrey,Nanjing,85
+Monterrey,Berlin,21
+Monterrey,Riyadh,20
+Monterrey,Recife,60
+Monterrey,Ankara,98
+Monterrey,Melbourne,97
+Monterrey,Salvador,92
+Monterrey,Adis Abeba,60
+Montreal,Nanjing,96
+Montreal,Recife,34
+Montreal,Dusseldorf,56
+Montreal,Athina,83
+Montreal,Cape Town,21
+Montreal,Napoli,67
+Nagoya,Dusseldorf,85
+Nagoya,Melbourne,50
+Nagoya,Salvador,72
+Nagoya,Dalian,52
+Nagoya,Caracas,54
+Nagoya,Adis Abeba,56
+Nagoya,Athina,41
+Nagoya,Cape Town,25
+Nagoya,Koln,17
+Nagoya,Napoli,56
+Nanjing,Xi'an,18
+Nanjing,Berlin,61
+Nanjing,Riyadh,78
+Nanjing,Ankara,96
+Nanjing,Melbourne,26
+Nanjing,Dalian,53
+Nanjing,Caracas,87
+Nanjing,Adis Abeba,29
+Nanjing,Cape Town,94
+Nanjing,Koln,1
+Nanjing,Maputo,35
+Abidjan,Xi'an,80
+Abidjan,Dusseldorf,73
+Abidjan,Ankara,4
+Abidjan,Melbourne,38
+Abidjan,Dalian,34
+Abidjan,Caracas,54
+Abidjan,Cape Town,28
+Abidjan,Koln,77
+Abidjan,Maputo,41
+Abidjan,Napoli,25
+Xi'an,Riyadh,33
+Xi'an,Recife,75
+Xi'an,Melbourne,85
+Xi'an,Salvador,83
+Xi'an,Dalian,35
+Xi'an,Adis Abeba,5
+Xi'an,Cape Town,80
+Berlin,Riyadh,57
+Berlin,Dusseldorf,39
+Berlin,Melbourne,73
+Berlin,Salvador,8
+Berlin,Caracas,63
+Berlin,Adis Abeba,68
+Berlin,Athina,20
+Berlin,Cape Town,90
+Berlin,Koln,38
+Berlin,Napoli,19
+Riyadh,Recife,84
+Riyadh,Dalian,17
+Riyadh,Adis Abeba,8
+Riyadh,Athina,40
+Riyadh,Cape Town,60
+Riyadh,Koln,52
+Riyadh,Maputo,22
+Recife,Dusseldorf,57
+Recife,Dalian,33
+Recife,Caracas,12
+Recife,Cape Town,7
+Recife,Koln,30
+Recife,Maputo,53
+Dusseldorf,Athina,21
+Dusseldorf,Maputo,42
+Ankara,Melbourne,31
+Ankara,Caracas,32
+Ankara,Cape Town,3
+Ankara,Koln,100
+Ankara,Napoli,18
+Melbourne,Salvador,78
+Melbourne,Dalian,91
+Melbourne,Caracas,70
+Melbourne,Athina,75
+Melbourne,Cape Town,41
+Melbourne,Maputo,26
+Salvador,Caracas,95
+Salvador,Adis Abeba,34
+Salvador,Athina,43
+Salvador,Napoli,31
+Dalian,Caracas,94
+Dalian,Cape Town,75
+Dalian,Maputo,58
+Dalian,Napoli,4
+Caracas,Cape Town,67
+Caracas,Koln,10
+Adis Abeba,Athina,87
+Athina,Napoli,37
+Cape Town,Napoli,25
+Koln,Napoli,1
+Maputo,Napoli,17
